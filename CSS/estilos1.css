@@ -1,0 +1,380 @@
+/* Inicio de Sesión */
+
+body fieldset{
+    font-weight: bold;
+    background: rgba(255, 216, 89, 0.5);
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    width: 15%;
+    margin-top: 200px;
+}
+
+#inicios{
+    background-image: url(../Imagenes/FondoInicio.jpg);
+    background-size: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#boton {
+    background-color: grey;
+    border-radius: 10px;
+    font-size: small;
+    text-decoration: none;
+    color: black;
+    padding: 2px 5px;
+}
+
+#boton:hover {
+    background-color: #D4AF37;
+    color: white;
+}
+
+/* Página Principal */
+
+#paginaP {
+    background-image: url(../Imagenes/Fondo.jpg);
+    background-size: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#boton2 {
+    background-color: grey;
+    border-radius: 10px;
+    font-size: small;
+    text-decoration: none;
+    color: black;
+    padding: 2px 5px;
+}
+
+#boton2:hover {
+    background-color: #D4AF37;
+    color: white;
+}
+
+.header1 {
+    font-family: 'Times New Roman';
+    margin-top: 80px;
+    background: #D4AF37;
+}
+
+.header1 h1 {
+    padding: 20px;
+    text-align: center;
+}
+
+.contenedor1 {
+    width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.main1 {
+    font-family: 'Times New Roman';
+    width:100%;
+    background:rgba(255, 216, 89, 0.5);
+    padding:20px;
+}
+
+.main1 h3 {
+    margin-right: 30px;
+    font-weight: normal;
+}
+
+.main1 hr {
+    margin-right: 50px;
+}
+
+.enlacestodo1 {
+    width: 100%;
+    background: rgba(255, 216, 89, 0.5);
+    padding: 20px;
+}
+
+.enlacestodo1 hr {
+    margin-right: 50px;
+}
+
+.enlacestodo1 h2 {
+    text-align: center;
+    margin-right: 50px;
+    line-height: 1.5;
+    color: rgb(83, 83, 83);
+}
+
+.enlacestodo1 a {
+    color: black;
+    text-decoration: none;
+}
+
+.enlaces1 {
+    font-size:x-large; 
+    text-align: center; 
+    font-weight: bold; 
+    margin-top: 10px;
+    margin-right: 50px;
+}
+
+.formularios1 p {
+    font-size:large;
+    font-weight: bold;
+    width: 61%;
+    background: rgba(255, 216, 89, 0.5);
+    padding: 20px;
+
+}
+
+/* Dark Souls 1 */
+
+#d1 {
+    background-image: url(../Imagenes/DARKSOULS1/darksouls1fondo.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.headerd1 {
+    font-family: 'Times New Roman';
+    margin-top: 80px;
+    background: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 30px;
+}
+
+.headerd1 h1 {
+    color: white;
+    padding: 10px;
+}
+
+.headerd1 a {
+    color: white;
+    float: left;
+    margin-top: -60px; 
+    text-decoration: none;
+    padding: 10px;
+}
+
+.contenedord1 {
+    width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.maind1 {
+    font-family: 'Times New Roman';
+    background:rgba(34, 34, 34, 0.7);
+    padding: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5px;
+}
+
+.maind1 h3 {
+    font-weight: normal;
+    color: white;
+}
+
+.maind1 img {
+    padding: 2px;
+}
+
+.enlacesd1 {
+    font-size:x-large; 
+    text-align: center; 
+    font-weight: bold; 
+    margin-top: 10px;
+    margin-right: 50px;
+    color: white;
+}
+
+.enlacestodod1 {
+    width: 60%;
+    background: rgba(34, 34, 34, 0.7);
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 19%;
+}
+
+.enlacestodod1 h2 {
+    text-align: center;
+    margin-right: 50px;
+    line-height: 1.5;
+    color: rgb(83, 83, 83);
+}
+
+.enlacestodod1 a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+/* Dark Souls 2 */
+
+#d2 {
+    background-image: url(../Imagenes/DARKSOULS2/ds2.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.headerd2 {
+    font-family: 'Times New Roman';
+    margin-top: 80px;
+    background: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 30px;
+}
+
+.headerd2 h1 {
+    color: white;
+    padding: 10px;
+}
+
+.headerd2 a {
+    color: white;
+    float: left;
+    margin-top: -60px; 
+    text-decoration: none;
+    padding: 10px;
+}
+
+.contenedord2 {
+    width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.maind2 {
+    font-family: 'Times New Roman';
+    background:rgba(34, 34, 34, 0.7);
+    padding: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5px;
+}
+
+.maind2 h3 {
+    font-weight: normal;
+    color: white;
+}
+
+.maind2 img {
+    padding: 2px;
+}
+
+.enlacesd2 {
+    font-size:x-large; 
+    text-align: center; 
+    font-weight: bold; 
+    margin-top: 10px;
+    margin-right: 50px;
+    color: white;
+}
+
+.enlacestodod2 a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.enlacestodod2 {
+    width: 60%;
+    background: rgba(34, 34, 34, 0.7);
+    padding: 20px;
+    margin-left: 19%;
+    margin-top: 10px;
+}
+
+.enlacestodod2 h2 {
+    text-align: center;
+    margin-right: 50px;
+    line-height: 1.5;
+    color: rgb(0, 0, 0);
+}
+
+/* Dark Souls 3 */
+
+#d3 {
+    background-image: url(../Imagenes/DARKSOULS3/ds3.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.headerd3 {
+    font-family: 'Times New Roman';
+    margin-top: 80px;
+    background: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 30px;
+}
+
+.headerd3 h1 {
+    color: white;
+    padding: 10px;
+}
+
+.headerd3 a {
+    color: white;
+    float: left;
+    margin-top: -60px; 
+    text-decoration: none;
+    padding: 10px;
+}
+
+.contenedord3 {
+    width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.maind3 {
+    font-family: 'Times New Roman';
+    background:rgba(34, 34, 34, 0.7);
+    padding: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5px;
+}
+
+.maind3 h3 {
+    font-weight: normal;
+    color: white;
+}
+
+.maind3 img {
+    padding: 2px;
+}
+
+.enlacesd3 {
+    font-size:x-large; 
+    text-align: center; 
+    font-weight: bold; 
+    margin-top: 10px;
+    margin-right: 50px;
+    color: white;
+}
+
+.enlacestodod3 a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.enlacestodod3 {
+    width: 60%;
+    background: rgba(34, 34, 34, 0.7);
+    padding: 20px;
+    margin-left: 19%;
+    margin-top: 10px;
+}
+
+.enlacestodod3 h2 {
+    text-align: center;
+    margin-right: 50px;
+    line-height: 1.5;
+    color: rgb(0, 0, 0);
+}
