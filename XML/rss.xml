@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	  <title>Noticias FromSoftware</title>
+	  <link>https://josetechhc.github.io</link>
+	  <description>En este documento se guardan todas las noticias de mi página web</description>
+	  <language>ES</language>
+		<item>
+			<title>Online DS3</title>
+			<link></link>
+			<description>Se han reactivado las características Online de DS3</description>
+		</item>
+		<item>
+		  <title>Parche 1.15.2</title>
+		  <link></link>
+		  <description>
+		  	Actualización del juego numero: 1.15.2
+		  </description>
+		</item>
+	</channel>
+</rss>
